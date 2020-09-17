@@ -64,12 +64,13 @@
 			"links": {}
 		},
 		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@dc73efb816c4b697d0a8295c5ccdf8e5df26953f/images/person-male.png",
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@fcffe92ead426e2d0c98efddaea575bb8bec2e7f/images/IMG_4463.jpg",
 			"homepage": "http://social.cs.washington.edu/",
 			"name": "Wenjia Hu",
 			"jobTitle": "visiting",
 			"@type": "Person",
-			"links": {}
+			"links": {},
+			"bio": "Wenjia just graduated undergrad in Cognitive Science. Her research interests are in collective intelligence, tools for thoughts that are at the intersection of complexity science and HCI."
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4482a6db4d37271a1f81adf0a684dd4be8bdbc6f/images/person-male.png",

@@ -69,7 +69,11 @@
 			"name": "Wenjia Hu",
 			"jobTitle": "visiting",
 			"@type": "Person",
-			"links": {},
+			"links": {
+				"website_url": "https://www.jiajiahu.me",
+				"github_url": "https://github.com/JiajiaHu20",
+				"twitter_url": "https://twitter.com/Jiajia_H"
+			},
 			"bio": "Wenjia just graduated undergrad in Cognitive Science. Her research interests are in collective intelligence, tools for thoughts that are at the intersection of complexity science and HCI."
 		},
 		{
